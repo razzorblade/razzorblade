@@ -9,5 +9,5 @@ My stats:
 Software I use:
 
 <a href=https://unity.com>
-<img src=https://logos-world.net/wp-content/uploads/2021/11/Unity-New-Logo.png width=50px height=50px>
+<img src=https://logos-world.net/wp-content/uploads/2021/11/Unity-New-Logo.png width=80px height=50px>
 </a>
