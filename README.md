@@ -9,7 +9,7 @@ My stats:
 Software I use:
 
 <a href=https://unity.com>
-<img src=https://logos-world.net/wp-content/uploads/2021/11/Unity-New-Logo.png width=10px height=50px>
+<img src=https://logos-world.net/wp-content/uploads/2021/11/Unity-New-Logo.png width=100px height=50px>
 </a>
 
 <a href=https://visualstudio.microsoft.com>
@@ -18,4 +18,8 @@ Software I use:
 
 <a href=https://www.image-line.com>
 <img src=https://upload.wikimedia.org/wikipedia/en/6/69/FL_Studio_11_just_logo.png width=50px height=50px>
+</a>
+
+<a href=https://www.adobe.com/sk/products/photoshop.html>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png width=50px height=50px>
 </a>
