@@ -9,7 +9,7 @@ My stats:
 Software I use:
 
 <a href=https://unity.com>
-<img src=https://logos-world.net/wp-content/uploads/2021/11/Unity-New-Logo.png width=100px height=50px>
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/1920px-Unity_2021.svg.png width=150px height=50px>
 </a>
 
 <a href=https://visualstudio.microsoft.com>
