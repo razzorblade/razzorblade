@@ -2,10 +2,6 @@ Hello there! 👋
 
 I am Slovak game developer, specialized in VR, desktop and mobile solutions. I am also music producer and audio engineer with 9+ years of experience.
 
-My stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razzorblade&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 Software I use:
 
 <a href=https://unity.com>
