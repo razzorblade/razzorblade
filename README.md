@@ -1,16 +1,16 @@
-# Hey there! I'm Razzorblade 👋
+# Hey there!
 
 **Slovak Game Developer | Software Engineer | Audio Designer**
 
 ---
 
-## 🎮 About Me
+## About Me
 
 I'm a passionate developer from Slovakia, crafting unique gaming experiences and building robust software solutions. My work spans across game development, enterprise software, and audio production — blending creativity with technical excellence.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -32,7 +32,7 @@ I'm a passionate developer from Slovakia, crafting unique gaming experiences and
 
 ---
 
-## 🎧 Audio Production
+## Audio Production
 
 ### Tools
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-FF7F00?style=for-the-badge&logo=flstudio&logoColor=white)
@@ -50,7 +50,7 @@ I'm a passionate developer from Slovakia, crafting unique gaming experiences and
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=razzorblade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
