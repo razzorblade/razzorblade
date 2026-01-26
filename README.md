@@ -53,10 +53,6 @@ I'm a passionate developer from Slovakia, crafting unique gaming experiences and
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razzorblade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=razzorblade&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
