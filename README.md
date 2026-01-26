@@ -1,4 +1,4 @@
-# Hey there!
+# Hey there! I am razzorblade
 
 **Slovak Game Developer | Software Engineer | Audio Designer**
 
@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate developer from Slovakia, crafting unique gaming experiences and building robust software solutions. My work spans across game development, enterprise software, and audio production — blending creativity with technical excellence.
+I'm a passionate developer from Slovakia, crafting unique gaming experiences and building robust software solutions. My work spans across game development, enterprise software, and audio production. I am blending creativity with technical excellence.
 
 ---
 
