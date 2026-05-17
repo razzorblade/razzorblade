@@ -1,34 +1,35 @@
 # Hey there! I am razzorblade
 
-**Slovak Game Developer | Software Engineer | Audio Designer**
+**AI & DevSecOps Engineer | Game Developer | Audio Designer**
 
 ---
 
 ## About Me
 
-I'm a passionate developer from Slovakia, crafting unique gaming experiences and building robust software solutions. My work spans across game development, enterprise software, and audio production. I am blending creativity with technical excellence.
+I'm a software engineer specializing in Game Development, Agentic AI and DevSecOps. I focus on architecting secure AI systems, managing enterprise cloud infrastructure, and implementing technical compliance frameworks. With over a decade of combined experience in enterprise software and independent game development, my work bridges the gap between complex, secure backend architectures and immersive, interactive frontends. Whether building scalable AI pipelines or crafting virtual reality experiences, I am driven by performance and structured execution.
 
 ---
 
 ## Tech Stack
 
-### Game Development
+### ☁️ Cloud, DevSecOps & AI
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+- 🔐 **DevSecOps** — Secure architectures, CodeQL, SonarQube, automated compliance frameworks
+- 🤖 **Agentic AI & LLMOps** — Designing, integrating, and maintaining large language model workflows
+- 🏗️ **Infrastructure** — Enterprise cloud management, containerization, and infrastructure as code
+
+### 💻 Software Engineering & Game Dev
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-- 🎯 **Indie Games** — Unique concepts for Mobile & Steam
-- 🥽 **VR / XR** — Immersive applications and experiences
-- 🌐 **Multiplayer & Networking** — Real-time connected gameplay
-
-### Software Engineering
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-- ☁️ **Cloud & DevOps** — Azure services, CI/CD pipelines
-- 🤖 **Generative AI** — Building with modern AI tools and APIs
+- 🥽 **XR & Game Dev** — VR/AR applications, multiplayer systems, and full lifecycle development
+- 🛠️ **Full-Stack Systems** — Connecting Unity clients and diverse frontends with robust .NET backends
 
 ---
 
@@ -44,9 +45,9 @@ I'm a passionate developer from Slovakia, crafting unique gaming experiences and
 | Area | Skills |
 |------|--------|
 | 🎵 **Music** | Production, Composition, Mastering |
-| 🎬 **Sound Design** | Game Audio, Foley, Sound Transformation |
-| 🎙️ **Voiceovers** | Recording, Editing, AI Voice (TTS, Speech2Speech, Emotional AI) |
-| 🔊 **Post-Production** | Mastering, Recording Cleanup, Restoration |
+| 🎬 **Sound Design** | Game Audio, Foley, Spatial Audio & Ambisonics |
+| 🎙️ **Voiceovers** | Recording, Editing, AI Voice (TTS, Speech2Speech) |
+| 🔊 **Post-Production** | Mastering, Recording Cleanup (iZotope RX), Restoration |
 
 ---
 
@@ -59,5 +60,5 @@ I'm a passionate developer from Slovakia, crafting unique gaming experiences and
 ---
 
 <p align="center">
-  <i>"Building worlds, one line of code at a time."</i>
+  <i>"Building secure worlds, one line of code at a time."</i>
 </p>
